@@ -29,8 +29,7 @@ Pass: 123456
 
 ### React JS
 
-To build and run this project:
-
+To build and run this project
 1. Clone this repository
 2. `cd` into the repo folder
 3. run `npm install` and then `npm start` to run the app locally.
