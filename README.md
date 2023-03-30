@@ -2,7 +2,7 @@
 <center>
 
 
-# Attendance made Simple
+# Attendance made Simple with Attendo
 ## Attendo Teacher's Dashboard
 
 Teachers can use this portal to manage classes and student attendance.
